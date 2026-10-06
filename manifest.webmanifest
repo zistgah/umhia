@@ -1,0 +1,10 @@
+{
+  "name": "UMHIA Keyboard Lab",
+  "short_name": "UMHIA",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f3ec",
+  "theme_color": "#2f6f4e",
+  "description": "Universal Multimodal Human Input Architecture. Copyright © 2026 Abhishek Choudhary. GPL-3.0-or-later."
+}
